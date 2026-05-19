@@ -9,24 +9,24 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenbin Huo"
+title                    : "Yanan Guo"
 title_separator          : "-"
-name                     : &name "Wenbin Huo"
-description              : &description "a second MS student from BUPT"
-url                      : https://sakura073.github.io
+name                     : &name "Yanan Guo"
+description              : &description "Graduate Student at Beijing University of Posts and Telecommunications"
+url                      : https://gyniy.github.io
 baseurl                  : ""
-repository               : "sakura073/Wenbin-Huo"
+repository               : "gyniy/yanan.github.io"
 
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Wenbin Huo"
+  name             : "Yanan Guo"
   pronouns         :
-  bio              : "a second MS student from BUPT"
+  bio              : "Graduate Student, School of Artificial Intelligence, Beijing University of Posts and Telecommunications. Received bachelor's degree from School of Mathematics and Computational Science, Xiangtan University."
   location         : "Beijing, China"
   employer         : "Beijing University of Posts and Telecommunications"
   uri              :
-  email            : "hwb@bupt.edu.cn"
+  email            : "2024111145@bupt.cn"
   academia         :
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
