@@ -22,7 +22,7 @@ repository               : "sakura073/sakura073.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "Wenbin Huo"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "a second year MS student from BUPT"
