@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wenbin Huo"
-  pronouns         : "he/him"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "a second MS student from BUPT"
   location         : "China"
   employer         : "BUPT"
